@@ -1,16 +1,3 @@
-# Java Interview
-
-This repository represents the technical portion of the java interview at CACIB's Digital Factory.
-
-The test is a live coding session. The test case was taken from codingdojo.
-
-The tasks are as follows:
-
-- Clone the current repository;
-- Add JUnit 4.11 to the maven dependencies in "test" scope;
-- Develop tests and implemention of the the RPN calculator according to the spec below (RPNCalculator.java has a TEST_DATA field with the data to validate the calculator);
-- Think aloud :)
-
 ## RPN Calculator
 
 An RPN calculator computes expressions written in Reverse Polish Notation.
