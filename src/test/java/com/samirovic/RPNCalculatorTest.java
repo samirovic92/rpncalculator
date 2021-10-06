@@ -1,4 +1,4 @@
-package com.cacib.javainterview;
+package com.samirovic;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

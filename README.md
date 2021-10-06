@@ -28,7 +28,7 @@ Add the MAX operation :
 ```
 
 5 3 4 2 9 1 MAX => MAX(5, 3, 4, 2, 9, 1) = 9
-4 5 MAX 1 2 MAX _ => MAX(4,5) _ MAX(1,2) = 10
+4 5 MAX 1 2 MAX * => MAX(4,5) * MAX(1,2) = 10
 
 ```
 

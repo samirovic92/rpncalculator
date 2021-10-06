@@ -1,4 +1,4 @@
-package com.cacib.javainterview;
+package com.samirovic;
 
 import java.util.Stack;
 
